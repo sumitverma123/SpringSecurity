@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 16 17:17:51 IST 2021
+org.eclipse.jst.jee.server\:/binary\:/home/sumit/.m2/repository/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE.jar=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-03-custom-login-form/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.jee.server\:spring-security-demo-03-custom-login-form=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-03-custom-login-form
