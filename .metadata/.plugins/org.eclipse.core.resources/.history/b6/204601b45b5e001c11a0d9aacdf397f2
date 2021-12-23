@@ -1,5 +1,0 @@
-package com.lov2code.springsecurity.demo.controller;
-
-public class LoginController {
-
-}

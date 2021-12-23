@@ -12,3 +12,4 @@ public class DemoController {
 		return "home";
 	}
 }
+
