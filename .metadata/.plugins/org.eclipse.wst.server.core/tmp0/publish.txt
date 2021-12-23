@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Mon Dec 20 15:25:00 IST 2021
-org.eclipse.jst.jee.server\:/binary\:/home/sumit/.m2/repository/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE.jar=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-04-logout/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
-org.eclipse.jst.jee.server\:spring-security-demo-04-logout=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-04-logout
+#Wed Dec 22 17:13:22 IST 2021
+org.eclipse.jst.jee.server\:spring-security-demo-05-user-roles=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-05-user-roles
+org.eclipse.jst.jee.server\:/binary\:/home/sumit/.m2/repository/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE.jar=/opt/tomcat/apache-tomcat-9.0.52/wtpwebapps/spring-security-demo-05-user-roles/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar

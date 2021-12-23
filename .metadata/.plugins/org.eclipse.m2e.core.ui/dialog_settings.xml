@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="MavenProjectImportWizardPage">
-		<list key="rootDirectory">
-			<item value="/data/tftpboot/Springhybernatecourse/47. Spring Security - Getting Started/5.1 spring-security-5-demo-starter"/>
-			<item value="/data/tftpboot/Springhybernatecourse/47. Spring Security - Getting Started/5.1 spring-securitay-5-demo-starter"/>
-			<item value="/data/dtv"/>
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
